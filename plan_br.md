@@ -32,4 +32,8 @@ Plano de desenvolvimento
 # Regas
 
 - Tipo [ Foliar, Normal ]
+- Data
+- Alvo (Planta ou Grupo)
+- pH (Rega e Runoff)
+- ppm (Rega e Runoff)
 
